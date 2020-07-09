@@ -4,7 +4,7 @@ def count_strings(array)
     total==String
       
   end
-  array
+count_strings(total)
 end
 
 def count_empty_strings(array)
